@@ -1,0 +1,20 @@
+<?xml version ="1.0" encoding="iso-8859-1" ?>
+
+<projet nom="projet1">
+    <librairie>
+        <nom>JDBC</nom>
+        <version>21.3.0</version>
+        <description>ldjhfgslfjhg</description>
+    </librairie> 
+    <librairie>
+        <nom>Junit</nom>
+        <version>4.13.2</version>
+        <description>ejhfldsjhglkjgfh</description>
+    </librairie> 
+    <serveur nom="test">
+        <URL>http://serveur-test.com</URL>
+    </serveur>
+    <serveur nom="integration">
+        <URL>http://serveur-integration.com</URL>
+    </serveur>
+</projet> 

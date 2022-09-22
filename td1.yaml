@@ -1,0 +1,15 @@
+---
+  projet: 
+    nom: projet1 
+    librairies: 
+      - nom: Junit
+        version : 2.2.2
+        description: ldskjhglsdkjhgklsdjh
+      - nom: JDBC
+        version: 2.1.1
+        description: lkdsjfhgldksjfhg
+    serveurs:
+      - nom: test
+        URL: http://serveur-test.com
+      - nom: int
+        URL: http://serveur-inte.com
